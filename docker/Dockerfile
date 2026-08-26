@@ -8,7 +8,6 @@ FROM openthc/web:latest
 #
 # Environment
 ENV OPENTHC_SERVICE="pos"
-ENV OPENTHC_SERVER_NAME="pos.docker.openthc.org"
 
 #
 # Install
